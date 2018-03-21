@@ -1,0 +1,21 @@
+{
+  "name": "convert2livephoto",
+  "version": "1.0.0",
+  "description": "Combines jpeg photos and movies with the same filename into a live photo with .pvt format which can be imported in Apple Photos MacOS app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "live",
+    "photos",
+    "pvt",
+    "convert",
+    "apple"
+  ],
+  "author": "Dario Banfi",
+  "license": "MIT",
+  "dependencies": {
+    "npm": "^5.7.1"
+  }
+}
